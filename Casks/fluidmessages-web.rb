@@ -1,8 +1,8 @@
 # Homebrew cask for FluidMessages Web on Mac, published in the Lin8x/homebrew-tap repository.
 # scripts/update-homebrew-tap fills in the version and SHA-256 and pushes it there on every release.
 cask "fluidmessages-web" do
-  version "0.48.0"
-  sha256 "ce0d99cad17d74940d1cf1cf708da5b602052c7eedf8fb8202ffcb652648331e"
+  version "0.49.0"
+  sha256 "402c04ceb55f9378b3a95ef970187fde82bbc0cbba6cf65d10ab71f060f7ff8d"
 
   url "https://github.com/Lin8x/FluidMessages/releases/download/v#{version}/FluidMessages-Web-#{version}-macOS.dmg"
   name "FluidMessages Web"
